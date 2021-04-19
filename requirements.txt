@@ -1,7 +1,0 @@
-chromedriver-binary
-selenium 
-webdriver-manager 
-requests
-bs4
-unidecode
-pytest
