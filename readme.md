@@ -1,8 +1,8 @@
 # Canoe Final Assessment
 
 ### INSTRUCTIONS
-In the terminal, run the following command in the `final_tests` directory: *docker build -t test .* 
-This will build the docker image from the provided dockerfile. I've chosen the name *test* but this can be anything you choose. Once the image has been built, run the following command: *docker run -it test*
+In the terminal, run the following command in the `final_tests` directory: `docker build -t test .` 
+This will build the docker image from the provided dockerfile. I've chosen the name *test* but this can be anything you choose. Once the image has been built, run the following command: `docker run -it test`
 
 ## Question 1
 ### THOUGHTS
